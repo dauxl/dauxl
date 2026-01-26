@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🎓a Computer Engineering student from India</p>
+<p align="center">🎓 a Computer Engineering student from India</p>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<p align="center">Everything here is a work in progress, and the goal is to improve step by step🚀</p>
+<p align="center">Everything here is a work in progress, and the goal is to improve step by step 🚀</p>
 
 ###
 
@@ -138,6 +138,15 @@
 
 <div align="center">
   <img height="139" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWd2aTMwazlla2JuancydDQzeTFod3pvb2N4enNyNjU4aGlhaWMwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iHt3MKmrp3KroeYvtx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <p>
+    Thanks for stopping by ✨ <br>
+    More coming soon.
+  </p>
 </div>
 
 ###
