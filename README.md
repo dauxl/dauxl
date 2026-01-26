@@ -2,6 +2,47 @@
 
 ###
 
+<p align="center">🎓a Computer Engineering student from India</p>
+
+###
+
+<div align="center">
+  <p>
+    I'm currently learning and exploring:
+  </p>
+
+  <p>
+    • Data Structures & Algorithms <br>
+    • Web Development (HTML, CSS, JavaScript) <br>
+    • C++ and problem-solving fundamentals
+  </p>
+</div>
+
+###
+
+<p align="center">This is a new GitHub profile where I'll be sharing my learning journey — practice code,
+    small projects, experiments, and things I build as I grow</p>
+
+###
+
+<p align="center">Everything here is a work in progress, and the goal is to improve step by step🚀</p>
+
+###
+
+<div align="center">
+   <h3>🛠️ Tools & Tech (so far)</h3>
+  <p>
+    • C, C++ <br>
+    • Java – Fundamentals <br>
+    • HTML, CSS <br>
+    • Basic JavaScript <br>
+    • Basic JavaScript <br>
+    • Git & GitHub
+  </p>
+</div>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
   <img width="12" />
@@ -17,14 +58,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="60" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="60" alt="blender logo"  />
 </div>
-
-###
-
-<p align="center">Currently a Computer Engineering student</p>
 
 ###
 
@@ -39,7 +73,14 @@
 
 ###
 
-<p align="center">Currently a Computer Engineering student</p>
+<div align="center">
+   <h3>🌱 What I'm focusing on right now</h3>
+  <p>
+    • Building strong coding fundamentals <br>
+    • Writing clean and understandable code <br>
+    • Learning by doing instead of just watching tutorials
+  </p>
+</div>
 
 ###
 
@@ -55,6 +96,42 @@
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<div align="center">
+  <h3>📌 A bit about me</h3>
+  <p>
+    • 🎓 Second-year Computer Engineering student <br>
+    • 💻 Interested in software development <br>
+    • 🎬 Also into video editing & creative work <br>
+    • 📈 Trying to be consistent and improve every day
+  </p>
+</div>
+
+###
+
+<div align="center">
+   <h3>🎨 Creative Tools</h3>
+  <p>
+    • Davinci Resolve <br>
+    • Adobe Premiere Pro <br>  
+    • Adobe After Effects <br>
+    • Blender (Basic)
+  </p>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" height="60" alt="Adobe Premiere Pro" />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/Adobe-Premiere-Pro.svg" height="60" alt="Adobe Premiere Pro" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="60" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="60" alt="blender logo"  />
 </div>
 
 ###
