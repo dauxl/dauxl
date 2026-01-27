@@ -36,7 +36,6 @@
     • Java – Fundamentals <br>
     • HTML, CSS <br>
     • Basic JavaScript <br>
-    • Basic JavaScript <br>
     • Git & GitHub
   </p>
 </div>
