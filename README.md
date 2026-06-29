@@ -96,7 +96,7 @@
 <div align="center">
   <h3>📌 A bit about me</h3>
   <p>
-    • 🎓 Second-year Computer Engineering student <br>
+    • 🎓 Computer Engineering student <br>
     • 💻 Interested in software development <br>
     • 🎬 Also into video editing & creative work <br>
     • 📈 Trying to be consistent and improve every day
