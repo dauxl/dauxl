@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🎓 a Computer Engineering student from India</p>
+<p align="center">🎓 a Computer Engineering student</p>
 
 ###
 
