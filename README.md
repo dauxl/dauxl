@@ -13,8 +13,7 @@
 
   <p>
     • Data Structures & Algorithms <br>
-    • Web Development (HTML, CSS, JavaScript) <br>
-    • C++ and problem-solving fundamentals
+    • Web Development
   </p>
 </div>
 
@@ -30,17 +29,28 @@
 ###
 
 <div align="center">
-   <h3>🛠️ Tools & Tech (so far)</h3>
-  <p>
-    • C, C++ <br>
-    • Java – Fundamentals <br>
-    • HTML, CSS <br>
-    • Basic JavaScript <br>
-    • Git & GitHub
-  </p>
+  <h3>🛠️ Tools & Tech (so far)</h3>
+
+  <strong>Languages</strong><br>
+  C • C++ • Java • JavaScript • TypeScript
+  <br>
+
+  <strong>Frontend</strong><br>
+  HTML • CSS • React • Next.js • Tailwind CSS
+  <br>
+
+  <strong>Libraries</strong><br>
+  TanStack Query • Zustand • Axios • Cheerio • GraphQL • REST APIs
+  <br>
+
+  <strong>Tools & Platforms</strong><br>
+  Git • GitHub • Vercel • Cloudflare
+  <br><br>
 </div>
 
 ###
+
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
@@ -49,14 +59,27 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="60" alt="ts logo"  />
+  <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="60" alt="git logo"  />
+  <br><br>
+
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="60" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="60" alt="cloudflare logo"  />
 </div>
 
 ###
