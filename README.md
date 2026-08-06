@@ -29,7 +29,7 @@
 ###
 
 <div align="center">
-  <h3>🛠️ Tools & Tech (so far)</h3>
+  <h3>🛠️ Tools & Tech (Comfortable With So Far)</h3>
 
   <strong>Languages</strong><br>
   C • C++ • Java • JavaScript • TypeScript
