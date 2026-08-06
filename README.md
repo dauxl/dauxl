@@ -19,7 +19,7 @@
 
 ###
 
-<p align="center">This is a new GitHub profile where I'll be sharing my learning journey — practice code,
+<p align="center">This GitHub documents my journey — practice code,
     small projects, experiments, and things I build as I grow</p>
 
 ###
@@ -54,31 +54,31 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="12" />
+  <img width="69" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
+  <img width="69" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
+  <img width="69" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
+  <img width="69" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="60" alt="ts logo"  />
   <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
+  <img width="69" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
+  <img width="69" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
+  <img width="69" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
+  <img width="69" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="60" alt="git logo"  />
   <br><br>
 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
+  <img width="69" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="60" alt="vercel logo"  />
-  <img width="12" />
+  <img width="69" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="60" alt="cloudflare logo"  />
 </div>
 
@@ -117,7 +117,7 @@
 ###
 
 <div align="center">
-  <h3>📌 A bit about me</h3>
+  <h3>📌 Beyond Coding </h3>
   <p>
     • 🎓 Computer Engineering student <br>
     • 💻 Interested in software development <br>
